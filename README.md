@@ -2,9 +2,7 @@
 
 > An experimental open reimplementation of LangMem with Claude 3's new Function Calling, and MongoDB Atlas Vector Search, done for [the Memory Hackathon](https://lu.ma/taa6ijxt?tk=HWUtEx)
 
-Every feature faithfully reimplemented fitting the original messages and schema of https://langchain-ai.github.io/long-term-memory/quick_start/, done to understand/explain how they work and to see if Claude's function calling.
-
-
+Every feature faithfully reimplemented fitting the original messages and schema of https://langchain-ai.github.io/long-term-memory/quick_start/, done to understand/explain how they work and to see if Claude's function calling and MongoDB's vector storage can fully substitute for OpenAI structured outputs.
 
 <img width="1227" alt="image" src="https://github.com/swyxio/openlangmem/assets/6764957/f592383a-2f3d-4ed5-8907-47cf76e02a07">
 <!-- https://chat.openai.com/share/64198ff8-fa7a-49b1-9157-46a32efa35ab -->
@@ -29,6 +27,7 @@ Todo (*aka "too boring to do in a hackathon"*):
 - [ ] make async
 - [ ] pluggable function calling (Fireworks, Mistral, etc)
 - [ ] pluggable persistence (Pinecone, Chroma, etc)
+- [ ] pluggable triggers (` :) `)
 
 
 ## Setup
