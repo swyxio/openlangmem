@@ -1,6 +1,28 @@
-# OpenLangMem
+# 🧠💡🌐 OpenLangMem 
 
-experimental open reimplementation of LangMem with Claude 3's new Function Calling, and MongoDB Atlas Vector Search.
+> An experimental open reimplementation of LangMem with Claude 3's new Function Calling, and MongoDB Atlas Vector Search.
+
+Features covered:
+
+- [x] LangMem's 4 core memory types
+    - [x] User State
+    - [x] User Append State
+    - [x] User Semantic Memory
+    - [x] Thread Summary
+- [x] LangMem retrieval APIs with MongoDB Atlas/local `mongod`
+    - [x] `add_messages`
+    - [x] `list_messages`
+    - [x] `query_user_memory`
+    - [ ] `trigger_all_for_thread`
+    - [ ] `trigger_all_for_user`
+    - [ ] `create_memory_function`
+    - [ ] `update_memory_function`
+    - [ ] `list_memory_functions`
+    - [ ] `delete_memory_function`
+
+
+Todo:
+- [ ] make async
 
 
 ## Setup
