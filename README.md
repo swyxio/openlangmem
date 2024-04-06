@@ -2,7 +2,11 @@
 
 > An experimental open reimplementation of LangMem with Claude 3's new Function Calling, and MongoDB Atlas Vector Search, done for [the Memory Hackathon](https://lu.ma/taa6ijxt?tk=HWUtEx)
 
-Every feature faithfully reimplemented fitting the original messages and schema of https://langchain-ai.github.io/long-term-memory/quick_start/, done to understand/explain how they work and to see if Claude's function calling
+Every feature faithfully reimplemented fitting the original messages and schema of https://langchain-ai.github.io/long-term-memory/quick_start/, done to understand/explain how they work and to see if Claude's function calling.
+
+
+
+<img width="593" alt="image" src="https://github.com/swyxio/openlangmem/assets/6764957/ec581a16-c452-4247-a269-f2c2a5cea8d8">
 
 Features covered:
 
