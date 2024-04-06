@@ -21,6 +21,7 @@ Features covered:
     - [ ] `trigger_all_for_thread` or user -> runs 4 core memories
     - [ ] `memory_function` CRUDL abstractions of core memory
 
+<img width="1424" alt="image" src="https://github.com/swyxio/openlangmem/assets/6764957/84687759-d5da-467d-a181-cc66d67970e8">
 
 Todo (*aka "too boring to do in a hackathon"*):
 
