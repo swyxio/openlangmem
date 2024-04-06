@@ -6,7 +6,8 @@ Every feature faithfully reimplemented fitting the original messages and schema 
 
 
 
-<img width="593" alt="image" src="https://github.com/swyxio/openlangmem/assets/6764957/ec581a16-c452-4247-a269-f2c2a5cea8d8">
+<img width="1227" alt="image" src="https://github.com/swyxio/openlangmem/assets/6764957/f592383a-2f3d-4ed5-8907-47cf76e02a07">
+<!-- https://chat.openai.com/share/64198ff8-fa7a-49b1-9157-46a32efa35ab -->
 
 Features covered:
 
