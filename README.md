@@ -10,15 +10,15 @@ Every feature faithfully reimplemented fitting the original messages and schema 
 Features covered:
 
 - [x] ✅ LangMem's 4 core memory types
-    - [x] ✅ User State
-    - [x] ✅ User Append State
-    - [x] ✅ User Semantic Memory
-    - [x] ✅ Thread Summary
+    - [x] ✅ User State: **extracts entities** into a specified schema.
+    - [x] ✅ User Append State: extracts **Core Beliefs** and **Formative Events** in a user's life
+    - [x] ✅ User Semantic Memory: execute **user reflection analysis** and scores based on **recency, importance and relevance**.
+    - [x] ✅ Thread Summary: **summarizes conversation** into a specified schema
 - [x] LangMem retrieval APIs with MongoDB Atlas/local `mongod`
     - [x] `add_messages`
     - [x] `list_messages`
     - [x] `query_user_memory`
-    - [ ] `trigger_all_for_thread` or user
+    - [ ] `trigger_all_for_thread` or user -> runs 4 core memories
     - [ ] `memory_function` CRUDL abstractions of core memory
 
 
